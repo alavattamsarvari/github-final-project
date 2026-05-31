@@ -1,0 +1,4 @@
+theia@theia-sarvari1112:/home/project/final-project/github-final-project$ git branch -vv
+  bug-fix-revert c6bb2f8 [origin/bug-fix-revert] commiting change
+  bug-fix-typo   c6bb2f8 commiting change
+* master         c6bb2f8 [origin/master: ahead 2] commiting change
