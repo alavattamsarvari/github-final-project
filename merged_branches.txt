@@ -1,0 +1,5 @@
+theia@theia-sarvari1112:/home/project/final-project/github-final-project$ git merge bug-fix-typo
+Updating 72173b7..c6bb2f8
+Fast-forward
+ README.md | 1 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
