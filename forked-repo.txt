@@ -1,0 +1,3 @@
+theia@theia-sarvari1112:/home/project$ curl -s https://api.github.com/repos/alavattamsarvari/mcino-Introduction-to-Git-and-GitHub | jq -r '.clone_url'
+https://github.com/alavattamsarvari/mcino-Introduction-to-Git-and-GitHub.git
+theia@theia-sarvari1112:/home/project$ 
